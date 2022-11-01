@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    internal class LavadoCompleto
+    public class LavadoCompleto : Coche
     {
+        public override string ToString()
+        {
+            return $"{Serial};{Marca};{Placa}";
+        }
     }
 }

@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    internal class Program
+    public class Coche
     {
-        static void Main(string[] args)
-        {
-        }
+        public string Marca { get; set; } 
+        public string Placa { get; set; }
+        public int Serial { get; set; } 
     }
 }
