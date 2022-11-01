@@ -1,0 +1,8 @@
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\Proyecto\obj\Debug\Proyecto.pdb

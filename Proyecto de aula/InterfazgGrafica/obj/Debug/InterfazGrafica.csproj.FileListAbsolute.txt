@@ -1,0 +1,12 @@
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\InterfazgGrafica\bin\Debug\InterfazgGrafica.exe.config
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\InterfazgGrafica\bin\Debug\InterfazgGrafica.exe
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\InterfazgGrafica\bin\Debug\InterfazgGrafica.pdb
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\InterfazgGrafica\obj\Debug\InterfazGrafica.csproj.AssemblyReference.cache
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\InterfazgGrafica\obj\Debug\InterfazGrafica.csproj.SuggestedBindingRedirects.cache
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\InterfazgGrafica\obj\Debug\InterfazgGrafica.Properties.Resources.resources
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\InterfazgGrafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.cache
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\InterfazgGrafica\obj\Debug\InterfazGrafica.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\InterfazgGrafica\obj\Debug\InterfazgGrafica.exe
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\InterfazgGrafica\obj\Debug\InterfazgGrafica.pdb
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\InterfazgGrafica\obj\Debug\InterfazgGrafica.Principal.resources
+C:\Users\DAVID\EntregaProyecto\ProyectoProgramacion\Proyecto de aula\InterfazgGrafica\obj\Debug\InterfazgGrafica.Vehiculo.resources
